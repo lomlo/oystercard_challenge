@@ -1,5 +1,9 @@
-# oyster_card
 
-This is Day 1 of week 2. Hoping to cover areas that we have learned by following similar themes, this time following a fully functioning oyster card as apposed to Boris' bikes.
 
-Please visit the following link to follow the user stories. https://github.com/makersacademy/course/blob/master/oystercard/README.md
+# Oystercard_challenge
+
+This is week two challenge at [Makers Academy] (http://www.makersacademy.com/).
+
+The brief and user stories can be found [here] (https://github.com/makersacademy/course/blob/master/oystercard/README.md).
+
+In short, the challenge requires us to build a system similar to TFL's oyster. The interface will be irb.
