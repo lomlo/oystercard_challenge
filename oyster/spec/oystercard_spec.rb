@@ -1,12 +1,9 @@
 require 'oystercard'
 
 describe Oystercard do
-  subject(:card) { described_class.new}
   let(:entry_station) { double :entry_station }
   let(:exit_station) { double :exit_station }
-# In order to use public transport
-# As a customer
-# I want money on my card
+  subject(:card) { described_class.new}
 
   describe "responds to" do
     it { is_expected.to respond_to(:balance) }
